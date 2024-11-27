@@ -11,6 +11,8 @@ NOTA:
 para ejecutar la base de datos usamos PostgreSQL ya que render usa ese, para que funcione los registros tenemos que insertar datos en la tabla categorys,modelos auto,status y rol 
 abre la documetnacion de fast api y te encuentras con las rutas y se van a la ruta usuario y ejecutar y hay ingresa los datos y despues se van 
 al frontend y hay aprece el login y escriben sus datos y se loguean 
+![image](https://github.com/user-attachments/assets/c244f36b-23f0-4700-99a4-e15e937448c0)
+
 ![Captura de pantalla 2024-11-26 234650](https://github.com/user-attachments/assets/d5bcc65a-d3f9-43f1-a468-f434ad5ffc6f)
 ![image](https://github.com/user-attachments/assets/152edde1-2db7-4735-9ed1-3447a434ac74)
 
